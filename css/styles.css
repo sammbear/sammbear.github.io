@@ -77,6 +77,12 @@
   --bs-link-hover-color: #974a2d;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
+  --bs-custom-bg: #20c997;
+
+custom-background {
+    background-color: var(--bs-custom-bg);
+}
+
 }
 
 *,
