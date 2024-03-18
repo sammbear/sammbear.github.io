@@ -79,6 +79,11 @@
   --bs-highlight-bg: #fff3cd;
   --bs-custom-bg: #6f42c1;
 
+:root {
+    --bs-custom-bg: #6f42c1;
+}
+
+
 custom-background {
     background-color: var(--bs-custom-bg);
 }
