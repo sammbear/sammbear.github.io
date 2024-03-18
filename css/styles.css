@@ -3656,7 +3656,7 @@ textarea.form-control-lg {
 
 .nav-tabs {
   --bs-nav-tabs-border-width: 1px;
-  --bs-nav-tabs-border-color: #dee2e6;
+  --bs-nav-tabs-border-color: #20c997;
   --bs-nav-tabs-border-radius: 0.375rem;
   --bs-nav-tabs-link-hover-border-color: #e9ecef #e9ecef #dee2e6;
   --bs-nav-tabs-link-active-color: #495057;
@@ -3741,7 +3741,7 @@ textarea.form-control-lg {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
-  --bs-navbar-color: rgba(0, 0, 0, 0.55);
+  --bs-navbar-color: #20c997;
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
