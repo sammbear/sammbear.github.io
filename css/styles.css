@@ -79,14 +79,6 @@
   --bs-highlight-bg: #fff3cd;
   --bs-custom-bg: #6f42c1;
 
-:root {
-    --bs-custom-bg: #6f42c1;
-}
-
-
-custom-background {
-    background-color: var(--bs-indigo);
-}
 
 }
 
@@ -8138,7 +8130,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
- --bs-custom-bg: 1;
+ --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-custom-bg), var(--bs-custom-bg)) !important;
 }
 
